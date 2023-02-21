@@ -1,0 +1,10 @@
+^D:\PROJECTS\ROVER_CONTROL_APP-MAIN\ROVER_CONTROL_APP-MAIN\BUILD\WINDOWS\CMAKEFILES\5EA27DCA7B2F99E8F5ED32FDCB064883\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

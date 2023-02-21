@@ -1,0 +1,10 @@
+^D:\PROJECTS\ROVER_CONTROL_APP-MAIN\ROVER_CONTROL_APP-MAIN\BUILD\WINDOWS\CMAKEFILES\5EA27DCA7B2F99E8F5ED32FDCB064883\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Projects/rover_control_app-main/rover_control_app-main/windows -BD:/Projects/rover_control_app-main/rover_control_app-main/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/rover_control_app-main/rover_control_app-main/build/windows/antpod.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

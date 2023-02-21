@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\rover_control_app-main\rover_control_app-main\build\windows\CMakeFiles\ea326ffbb168eb0d91998c24e140aff7\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Projects\rover_control_app-main\rover_control_app-main\build\windows\CMakeFiles\3841f15c517d72fcf1f989e1ab042f40\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Projects\rover_control_app-main\rover_control_app-main\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Projects\rover_control_app-main\rover_control_app-main\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5F88A159-0628-304C-B010-DF35847D5065}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

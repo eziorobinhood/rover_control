@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\rover_control_app-main\rover_control_app-main\build\windows\CMakeFiles\3841f15c517d72fcf1f989e1ab042f40\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5F88A159-0628-304C-B010-DF35847D5065}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
